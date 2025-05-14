@@ -141,11 +141,11 @@ function App() {
             />
             <div className="university-text">
               <h1>Green University of Bangladesh</h1>
-              <h1>Artificial Intelligence Lab</h1>
+              <h1>Artificial Intelligence</h1>
             </div>
           </div>
           <div className="project-title">
-            <h2>Object Recognition & Face Detection System</h2>
+            <h2>Face Recognition & Detection System</h2>
           </div>
         </div>
       </div>
@@ -201,18 +201,6 @@ function App() {
               <div className="member-info">
                 <h4>Nasrin Jahan Fateen</h4>
                 <p>ID: 222015015</p>
-              </div>
-            </div>
-            <div className="member-card">
-              <div className="member-info">
-                <h4>Mehedi Hasan</h4>
-                <p>ID: 222015040</p>
-              </div>
-            </div>
-            <div className="member-card">
-              <div className="member-info">
-                <h4>Rizvi Ahmed Siddiki </h4>
-                <p>ID: 222015043</p>
               </div>
             </div>
           </div>
